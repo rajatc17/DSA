@@ -1,0 +1,9 @@
+/*
+    ->IN-PLACE & STABLE
+    ->USED FOR SMALL INPUT SIZE(TIM-SORT,INTRA-SORT)
+    ->O(N) BEST CASE
+
+    BASIC IDEA:
+
+    
+*/
